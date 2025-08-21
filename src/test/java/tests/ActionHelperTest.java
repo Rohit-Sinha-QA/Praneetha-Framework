@@ -16,3 +16,5 @@ public class ActionHelperTest extends BaseTest {
         action.click(By.xpath("//button[@type='submit']"));
     }
 }
+
+// Hello
